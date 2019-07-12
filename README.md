@@ -3,7 +3,7 @@
 使用前需要引入
 # /assets/js/jquery.min.js
 # /assets/js/fontSize.js
-/assets/css/common.css
+# /assets/css/common.css
 可将代码直接插入vue.js中 
 
 
